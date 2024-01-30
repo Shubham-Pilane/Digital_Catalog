@@ -75,3 +75,13 @@
 
 - Sets up the express application, defines routes, and starts the server.
 
+## Deployment 
+
+This server is deployed on Render 
+
+Deployed Link : https://digitalcatalog.onrender.com/
+
+FrontEnd for this project is Deployed on Netlify
+
+Deployed Link : https://65b8d116aa9615cde51756f0--astonishing-capybara-8c90ec.netlify.app/
+
